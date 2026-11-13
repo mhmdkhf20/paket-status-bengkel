@@ -1,0 +1,11 @@
+{
+  "name": "status-pesanan-bengkel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Halaman status pesanan bengkel dengan penyimpanan di server Netlify (Functions + Blobs).",
+  "dependencies": {
+    "18": "^0.0.0",
+    "@netlify/blobs": "latest"
+  }
+}
